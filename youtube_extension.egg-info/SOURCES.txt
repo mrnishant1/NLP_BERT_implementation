@@ -1,0 +1,5 @@
+pyproject.toml
+youtube_extension.egg-info/PKG-INFO
+youtube_extension.egg-info/SOURCES.txt
+youtube_extension.egg-info/dependency_links.txt
+youtube_extension.egg-info/top_level.txt

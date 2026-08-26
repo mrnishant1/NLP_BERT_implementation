@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+dill
+nltk
+emoji
+spacy
+-e .
